@@ -3,3 +3,4 @@ Code Snippets for Practice
 
 Programming Languages:
 * Python
+* Go
